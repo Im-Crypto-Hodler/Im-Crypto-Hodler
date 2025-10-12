@@ -73,14 +73,13 @@ Check out my repositories for guides, tools, and projects I'm working on!
 
 ## 🌐 Social Media
 
-[![Social](https://skillicons.dev/icons?i=twitter,telegram,medium,github)](https://github.com/Im-Crypto-Hodler)
 
 <p align="left">
 <a href="https://x.com/imcryptohodler"><img src="https://skillicons.dev/icons?i=twitter"/></a>
-<a href="https://t.me/Cryptoland007"><img src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="Telegram" width="48"/></a>
-<a href="https://medium.com/@I_am_crypto_hodler"><img src="https://img.icons8.com/ios-filled/50/ffffff/medium-monogram.png" alt="Medium" width="48"/></a>
-<a href="https://substack.com/@imcryptohodler"><img src="https://img.icons8.com/ios-filled/50/ffffff/substack.png" alt="Substack" width="48"/></a>
 <a href="https://github.com/Im-Crypto-Hodler"><img src="https://skillicons.dev/icons?i=github"/></a>
+<a href="https://medium.com/@I_am_crypto_hodler"><img src="https://img.icons8.com/ios-filled/50/ffffff/medium-monogram.png" alt="Medium" width="48"/></a>
+<a href="https://t.me/Cryptoland007"><img src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="Telegram" width="48"/></a>
+<a href="https://substack.com/@imcryptohodler"><img src="https://img.icons8.com/ios-filled/50/ffffff/substack.png" alt="Substack" width="48"/></a>
 </p>
 
 ---
