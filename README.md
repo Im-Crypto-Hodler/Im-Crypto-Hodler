@@ -37,12 +37,12 @@ Check out my repositories for guides, tools, and projects I'm working on!
 
 ---
 
-## 🌱 Currently Learning
+| 🌱 Currently Learning |  |
+|-------------------------|--|
+| - Advanced smart contract interactions<br>- DeFi protocol mechanics and strategies<br>- Layer 2 scaling solutions and infrastructure<br>- Web3 development and dApp building | <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Boy coding" width="300"/> |
 
-- Advanced smart contract interactions
-- DeFi protocol mechanics and strategies
-- Layer 2 scaling solutions and infrastructure
-- Web3 development and dApp building
+
+
 
 ---
 
