@@ -73,16 +73,18 @@ Check out my repositories for guides, tools, and projects I'm working on!
 
 ## 🌐 Social Media
 
-<p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://x.com/imcryptohodler"><img src="https://img.shields.io/badge/-X-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://t.me/Cryptoland007"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://medium.com/@I_am_crypto_hodler"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="https://substack.com/@imcryptohodler"><img src="https://img.shields.io/badge/-Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white"/></a>
-<a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+[![Social](https://skillicons.dev/icons?i=twitter,telegram,medium,github)](https://github.com/Im-Crypto-Hodler)
+
+<p align="left">
+<a href="https://x.com/imcryptohodler"><img src="https://skillicons.dev/icons?i=twitter"/></a>
+<a href="https://t.me/Cryptoland007"><img src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="Telegram" width="48"/></a>
+<a href="https://medium.com/@I_am_crypto_hodler"><img src="https://img.icons8.com/ios-filled/50/ffffff/medium-monogram.png" alt="Medium" width="48"/></a>
+<a href="https://substack.com/@imcryptohodler"><img src="https://img.icons8.com/ios-filled/50/ffffff/substack.png" alt="Substack" width="48"/></a>
+<a href="https://github.com/Im-Crypto-Hodler"><img src="https://skillicons.dev/icons?i=github"/></a>
 </p>
 
 ---
+
 
 ## 🐍 Snake Eating My Contributions
 
