@@ -71,6 +71,28 @@ Check out my repositories for guides, tools, and projects I'm working on!
 
 ---
 
+## 🌐 Social Media
+
+<p align="center">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://x.com/imcryptohodler"><img src="https://img.shields.io/badge/-X-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://t.me/Cryptoland007"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://medium.com/@I_am_crypto_hodler"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://substack.com/@imcryptohodler"><img src="https://img.shields.io/badge/-Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white"/></a>
+<a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</p>
+
+---
+
+## 🐍 Snake Eating My Contributions
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/Im-Crypto-Hodler/Im-Crypto-Hodler/output/github-contribution-grid-snake.svg)
+
+_The snake is eating my contributions!_
+
+---
+
+
 ## 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Im-Crypto-Hodler&show_icons=true&theme=tokyonight)
