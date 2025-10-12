@@ -1,11 +1,13 @@
 ## Hi there, I'm Crypto Hodler 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Web3+Enthusiast+%7C+Airdrop+Hunter;Crypto+Content+Creator+%26+Educator;Building+Tools+for+the+Community;Exploring+the+Decentralized+Future)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=e80e02&center=true&vCenter=true&width=435&lines=Web3+Enthusiast+%7C+Airdrop+Hunter;Crypto+Content+Creator+%26+Educator;Building+Tools+for+the+Community;Exploring+the+Decentralized+Future)](https://git.io/typing-svg)
 
 [![X](https://img.shields.io/badge/X-@imcryptohodler-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/imcryptohodler)
 [![Medium](https://img.shields.io/badge/Medium-@I__am__crypto__hodler-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@I_am_crypto_hodler)
 [![Substack](https://img.shields.io/badge/Substack-imcryptohodler-FF6719?style=flat&logo=substack&logoColor=white)](https://substack.com/@imcryptohodler)
 [![Telegram](https://img.shields.io/badge/Telegram-Cryptoland007-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Cryptoland007)
+[![Website](https://img.shields.io/badge/Website-ImCryptoHodler-2E8B57?style=flat&logo=google-chrome&logoColor=white)](https://lnk.bio/imcryptohodler)
+
 
 ---
 
@@ -80,6 +82,7 @@ Check out my repositories for guides, tools, and projects I'm working on!
 <a href="https://medium.com/@I_am_crypto_hodler"><img src="https://img.icons8.com/ios-filled/50/ffffff/medium-monogram.png" alt="Medium" width="48"/></a>
 <a href="https://t.me/Cryptoland007"><img src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="Telegram" width="48"/></a>
 <a href="https://substack.com/@imcryptohodler"><img src="https://img.icons8.com/ios-filled/50/ffffff/substack.png" alt="Substack" width="48"/></a>
+<a href="https://lnk.bio/imcryptohodler"><img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" alt="Website" width="48"/></a>
 </p>
 
 ---
