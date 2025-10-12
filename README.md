@@ -48,17 +48,20 @@ Check out my repositories for guides, tools, and projects I'm working on!
 
 **Blockchain & Web3**
 
-![Ethereum](https://img.shields.io/badge/Ethereum-Intermediate-3C3C3D?style=flat&logo=ethereum&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-Learning-14F195?style=flat&logo=solana&logoColor=white)
-![Airdrop](https://img.shields.io/badge/Web3.js-Intermediate-F16822?style=flat&logo=web3.js&logoColor=white)
-![MetaMask](https://img.shields.io/badge/MetaMask-Expert-F6851B?style=flat&logo=metamask&logoColor=white)
+![EVM](https://img.shields.io/badge/EVM_Chains-Advanced-627EEA?style=flat&logo=ethereum&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana_SPL-Intermediate-14F195?style=flat&logo=solana&logoColor=white)
+![Airdrop](https://img.shields.io/badge/Airdrop_Hunting-Expert-9945FF?style=flat&logo=dropbox&logoColor=white)
+![Wallets](https://img.shields.io/badge/Multi_Wallet_Management-Expert-F6851B?style=flat&logo=metamask&logoColor=white)
 
 **Development & Tools**
 
-![Trackko](https://img.shields.io/badge/Linux-Intermediate-FCC624?style=flat&logo=linux&logoColor=black)
-![???](https://img.shields.io/badge/WSL-Expert-0078D6?style=flat&logo=windows&logoColor=white)
-![???](https://img.shields.io/badge/Shell_Scripting-Intermediate-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Trackko](https://img.shields.io/badge/Trackko_Extension-Expert-FF6B6B?style=flat&logo=googlechrome&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ED?style=flat&logo=docker&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Intermediate-339933?style=flat&logo=node.js&logoColor=white)
+![WSL](https://img.shields.io/badge/WSL-Expert-0078D6?style=flat&logo=windows&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Scripting-Intermediate-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-Intermediate-F05032?style=flat&logo=git&logoColor=white)
+
 
 **Content & Community**
 
