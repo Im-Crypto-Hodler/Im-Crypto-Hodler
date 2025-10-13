@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
 ## Hi there, I'm Crypto Hodler 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=e80e02&center=true&vCenter=true&width=435&lines=Web3+Enthusiast+%7C+Airdrop+Hunter;Crypto+Content+Creator+%26+Educator;Building+Tools+for+the+Community;Exploring+the+Decentralized+Future)](https://git.io/typing-svg)
