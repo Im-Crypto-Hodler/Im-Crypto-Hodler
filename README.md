@@ -90,15 +90,6 @@ Check out my repositories for guides, tools, and projects I'm working on!
 ---
 
 
-## 🐍 Snake Eating My Contributions
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/Im-Crypto-Hodler/Im-Crypto-Hodler/output/github-contribution-grid-snake.svg)
-
-_The snake is eating my contributions!_
-
----
-
-
 ## 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Im-Crypto-Hodler&show_icons=true&theme=tokyonight)
