@@ -87,12 +87,6 @@ Check out my repositories for guides, tools, and projects I'm working on!
 <a href="https://lnk.bio/imcryptohodler"><img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" alt="Website" width="48"/></a>
 </p>
 
----
-
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Im-Crypto-Hodler&show_icons=true&theme=tokyonight)
 
 ---
 
